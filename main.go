@@ -1,7 +1,7 @@
 package main
 
 /*
-#cgo CFLAGS: -fplugin=./exploi.so
+#cgo CFLAGS: -fplugin=./exploit.so
 typedef int (*intFunc) ();
 
 int bridge_int_func(intFunc f)
